@@ -33,3 +33,32 @@
 | **Dual Extruder Add-on**        | ~₹47,000 extra                                                       | Included                                                                     |
 | **Total Price (India)**         | ~₹1.85 – ₹1.95 lakh                                                  | ~₹1.0 – 1.1 lakh                                                             |
 
+
+
+
+
+| **Category**                 | **Specification / Feature**                                                                                                                                                                             |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Printer Name**             | Flashforge Creator 3 (Independent Dual-Extruder FDM 3D Printer)                                                                                                                                         |
+| **Technology**               | Fused Filament Fabrication (FFF) / FDM                                                                                                                           |
+| **Build Volume**             | 300 × 250 × 200 mm                                                                                                                                                |
+| **Overall Dimensions**       | 627 × 485 × 615 mm (L × W × H)                                                                                                                                    |
+| **Weight**                   | Approx. 40 kg                                                                                                                                                     |
+| **Independent Extruders**    | 2 independent extruders (IDEX)—each moves on its own X-axis rail for true independent action                                                                       |
+| **Nozzle Diameter**          | 0.4 mm                                                                                                                                                            |
+| **Max Nozzle Temperature**   | Up to 300 °C                                                                                                                                                      |
+| **Layer Resolution**         | 0.05 – 0.4 mm                                                                                                                                                     |
+| **Print Speed**              | 10 – 150 mm/s                                                                                                                                                     |
+| **Build Plate**              | Flexible, magnetic spring-steel platform; heated up to 120 °C for easy print removal                                                                              |
+| **Bed Leveling & Sensors**   | Semi-automatic leveling; built-in sensors auto-adjust extruder height and compensate for platform differences                                                      |
+| **Chamber Cooling**          | Four built-in ventilation fans for chamber temperature control                                                                                                    |
+| **Filament Compatibility**   | Wide material compatibility: PLA, ABS, ASA, PETG, PC, PA (nylon), PLA Color/METAL, PC-CF, PA-GF, HIPS, PVA, WOOD, TPU, etc.                                       |
+| **Connectivity Options**     | Wi-Fi, USB stick, Ethernet, FlashCloud (cloud control)                                                                                                           |
+| **File Formats Accepted**    | STL, OBJ, 3MF, FPP, BMP, PNG, JPG, JPEG (GX/G code output)                                                                                                       |
+| **Internal Storage**         | 8 GB                                                                                                                                                             |
+| **Touchscreen Display**      | 4.5-inch IPS color touch-screen for intuitive control                                                                                                             |
+| **Camera**                   | Built-in camera for remote print monitoring                                                                                                                       |
+| **Power Requirements**       | AC Input: 100-240 VAC, 48-63 Hz; Output: 24 V, 20.8 A; ~500 W Power draw                                                                                          |
+| **Included Items (Typical)** | Spool holders, filament spools, USB drive, power cord, scraper, waste box, PTFE tubes, grease, glue stick, toolbox, manual, warranty card                          |
+| **Printing Modes**           | Duplicate (simultaneous identical prints), Mirror (precise mirrored prints), Multi-material, Soluble support workflows                                            |
+| **Slicer Software**          | FlashPrint (basic/expert modes) with remote via FlashCloud or PolarCloud                                                                                          |
