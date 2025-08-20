@@ -8,3 +8,28 @@
 | Bambu Lab X1 Carbon | ₹1.45L – ₹2.37L | Capable of 500 mm/s | — (not specified) | Primarily PLA and PLA-compatible filaments; also supports dissolvable breakaway and AMS-assisted advanced composites such as PET-CF, PA-CF. | 256 × 256 × 256 mm | Bambu Studio, Bambu Farm Manager (Proprietary) | No IDEX but Yes (AMS supports multi-material via single nozzle) | Ultra-fast printing with AI + AMS multi-material system | • One of the fastest consumer printers available<br>• AMS makes multi-color/material very easy<br>• Strong online community & ecosystem | |
 | Raise3D E2CF | ₹3.2L – ₹3.5L | 30–150 mm/s | 30–150 mm/s | Broad engineering-grade support: fiber-reinforced PLA, ABS, Nylon, PET, PPS, PET-GF, PETG, ASA, PC, PA12 CF and PA12 CF support materials | Single extruder: 330 × 240 × 240 mm<br>Dual extruder: 295 × 240 × 240 mm | ideaMaker, RaiseCloud (Proprietary) | Yes | Specialized for carbon-fiber & composite materials | • Specifically tuned for fiber-reinforced filaments<br>• Excellent build quality & industrial support<br>• Higher learning curve, more pro-oriented | |
 | Snapmaker J1 IDEX | ₹1.7L – ₹1.8L | Up to 350 mm/s | ~350 mm/s | PLA, ABS, HIPS, PC, TPU (≥90 Shore A), TPE, PETG, ASA, PP, PVA, PA, PA-GF, PA-CF; also supports dissolvable/breakaway support materials | 300 × 200 × 200 mm | Snapmaker Luban (Open-source) | Yes | Versatile IDEX with mirror & duplicate modes | • Also integrates with Snapmaker modular ecosystem (laser, CNC)<br>• Compact design with creative IDEX modes<br>• Great for hobbyists who want versatility | |
+
+
+
+
+
+
+| Feature                         | **Snapmaker A250T + Dual Extruder Add-on**                           | **Snapmaker J1s**                                                            |
+| -------------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **Type**                        | 3-in-1 (3D Printing + CNC Carving + Laser Engraving)                 | Dedicated 3D Printer                                                         |
+| **3D Printing**                 | ✔                                                                    | ✔                                                                            |
+| **Dual Extruder**               | ✔ (requires add-on module ~₹47k)                                     | ✔ (Built-in Independent Dual Extruders – IDEX)                               |
+| **Build Volume (3D Printing)**  | 230 × 250 × 235 mm                                                   | 300 × 200 × 200 mm                                                           |
+| **Frame / Motion System**       | Modular all-metal linear rails                                       | CoreXY rigid frame                                                           |
+| **Speed**                       | Standard FDM (~100–150 mm/s)                                         | High-speed (~200–300 mm/s, max 350 mm/s)                                     |
+| **CNC Carving**                 | ✔ (200W spindle, wood, acrylic, PCB, soft metals)                    | ✘                                                                            |
+| **Laser Engraving / Cutting**   | ✔ (1.6W or 10W laser module options)                                 | ✘                                                                            |
+| **Materials (3D Printing)**     | PLA, ABS, PETG, TPU, more                                            | PLA, ABS, PETG, TPU, more                                                    |
+| **Other Materials (CNC/Laser)** | Wood, acrylic, PCB, leather, coated metal, paper                     | N/A                                                                          |
+| **Special Features**            | Modular toolheads, touchscreen, quieter operation, enclosure support | Mirror/Duplicate mode (IDEX), enclosure, heated bed, multi-material printing |
+| **Ease of Upgrade**             | Dual extruder, enclosure, higher power laser                         | Mainly firmware/software upgrades                                            |
+| **Best Use Case**               | Makers who want **multi-function machine** (3D + CNC + Laser)        | Users focused on **fast, high-quality dual-material 3D printing**            |
+| **Base Price (India)**          | ~₹1.35 – ₹1.45 lakh                                                  | ~₹99,999 – ₹1.1 lakh                                                         |
+| **Dual Extruder Add-on**        | ~₹47,000 extra                                                       | Included                                                                     |
+| **Total Price (India)**         | ~₹1.85 – ₹1.95 lakh                                                  | ~₹1.0 – 1.1 lakh                                                             |
+
