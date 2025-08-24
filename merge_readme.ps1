@@ -7,25 +7,26 @@ $readme = "$folder\README.md"
 # Clear existing README content
 "" | Out-File -FilePath $readme
 
-# List of files in the correct order (using exact names)
-$files = @(
-    "3D Printer.one",
-    "3d Printer+ CNC craving hybrid..md",
-    "3d printer list.md",
-    "BOM.md",
-    "Market-research.md",
-    "r&d.txt"
-)
+# Get all files in the folder
+$allFiles = Get-ChildItem -Path $folder | Where-Object { -not $_.PSIsContainer }
 
-# Loop through files and append content with heading
-foreach ($file in $files) {
-    $filePath = Join-Path -Path $folder -ChildPath $file
-    if (Test-Path $filePath) {
-        "# $file" | Out-File -FilePath $readme -Append
+foreach ($file in $allFiles) {
+    $filePath = $file.FullName
+
+    # Check if file extension is readable text
+    $ext = $file.Extension.ToLower()
+    if ($ext -in ".txt", ".md", ".csv") {
+
+        # Append file name as heading
+        "# $($file.Name)" | Out-File -FilePath $readme -Append
+
+        # Append file content
         Get-Content -LiteralPath $filePath | Out-File -FilePath $readme -Append
+
+        # Add extra space
         "`n`n" | Out-File -FilePath $readme -Append
     } else {
-        Write-Host "File not found: $filePath"
+        Write-Host "Skipping non-text file: $($file.Name)"
     }
 }
 
