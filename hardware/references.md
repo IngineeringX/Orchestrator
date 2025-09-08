@@ -15,6 +15,13 @@ Mechanical principles: https://youtube.com/shorts/BAqkVRRe0Sc?si=I0ygxRKtHwo4PT8
 
 Walking beam suspension: https://youtube.com/shorts/cR_enM5g9SA?si=1b5GHYmIbPC9kPc_
 
+## Reference Video
+
+<video width="600" controls>
+  <source src="./video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 
